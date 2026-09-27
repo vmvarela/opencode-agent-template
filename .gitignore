@@ -1,0 +1,12 @@
+# Ignorar el contenido de los proyectos anidados
+projects/*
+!projects/.gitkeep
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Temporales y logs
+*.tmp
+*.log
+*.swp
